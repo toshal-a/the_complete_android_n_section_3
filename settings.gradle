@@ -1,0 +1,2 @@
+rootProject.name = "The Complete Android N Section 3"
+include ':app'
